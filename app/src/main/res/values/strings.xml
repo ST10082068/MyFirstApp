@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="order_now">Order Now</string>
+    <string name="your_order"> You Ordered</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name="name">Name</string>
+    <string name="todo">TODO</string>
+    <string name="number">Cellphone</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Open navigation drawer</string>
+</resources>

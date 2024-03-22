@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:checkableBehavior="single" >
+        <item
+            android:id="@+id/nav_main"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:icon="@drawable/baseline_attach_money_24"
+            android:title="Place an Order" />
+        <item
+            android:id="@+id/nav_photo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:icon="@drawable/baseline_attach_money_24"
+            android:title="Take a Photo" />
+    </group>
+</menu>
